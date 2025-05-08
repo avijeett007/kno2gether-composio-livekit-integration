@@ -1,6 +1,6 @@
 # Knotie - Personal Assistant with Composio Integration
 
-![Knotie AI](https://knotie-ai.pro/assets/logo.png)
+![Knotie AI](https://knotie-ai.pro)
 
 This project showcases a powerful personal assistant using LiveKit and Composio integration for Google Calendar and Gmail functionality. The assistant can manage your calendar events, schedule appointments, and send emails through natural voice conversations.
 
@@ -118,6 +118,14 @@ Knotie uses Composio tools to seamlessly interact with your Google Calendar and 
 - **Speech Normalization**: The system removes filler words and corrects minor grammatical errors
 - **Context Awareness**: Knotie maintains context throughout the conversation for more coherent interactions
 - **Date & Time Awareness**: Always up-to-date with the current date and time for accurate scheduling
+
+## YouTube Tutorial
+
+Watch our step-by-step tutorial on how to build this project:
+
+[![Build a Personal Assistant with LiveKit and Composio](https://img.youtube.com/vi/1t9nfRSK-Nw/0.jpg)](https://youtu.be/1t9nfRSK-Nw)
+
+*Click the image above to watch the tutorial on YouTube*
 
 ## Subscribe to Kno2gether
 
